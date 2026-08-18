@@ -415,6 +415,10 @@
     [
       "0c00c70c-6ec5-4958-b79d-f19affab4d31",
       "MCU"
+    ],
+    [
+      "802367cd-24c9-45a3-bfa9-8f76513b9a92",
+      "Display_IMU"
     ]
   ],
   "text_variables": {}
