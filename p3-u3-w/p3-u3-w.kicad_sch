@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 53.34 43.18)
+		(at 99.06 38.1)
 		(size 38.1 43.18)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "0c00c70c-6ec5-4958-b79d-f19affab4d31")
 		(property "Sheetname" "MCU"
-			(at 53.34 42.4684 0)
+			(at 99.06 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 53.34 86.9446 0)
+			(at 99.06 81.8646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48,7 +48,49 @@
 		)
 	)
 	(sheet
-		(at 100.33 41.91)
+		(at 158.75 38.1)
+		(size 36.83 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3e53af67-5743-44c9-88b1-4ba3d40a2094")
+		(property "Sheetname" "SD_DAC"
+			(at 158.75 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SD_DAC.kicad_sch"
+			(at 158.75 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "p3-u3-w"
+				(path "/afed05dd-3bce-4903-b4b6-a2a13f579b42"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 38.1)
 		(size 34.29 45.72)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +106,7 @@
 		)
 		(uuid "802367cd-24c9-45a3-bfa9-8f76513b9a92")
 		(property "Sheetname" "Display_IMU"
-			(at 100.33 41.1984 0)
+			(at 38.1 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "Display_IMU.kicad_sch"
-			(at 100.33 88.2146 0)
+			(at 38.1 84.4046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85,6 +127,48 @@
 			(project "p3-u3-w"
 				(path "/afed05dd-3bce-4903-b4b6-a2a13f579b42"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 99.06)
+		(size 40.64 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c7b07015-2d89-4fe4-9a51-c107dd8bd862")
+		(property "Sheetname" "USB_PWR"
+			(at 99.06 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_PWR.kicad_sch"
+			(at 99.06 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "p3-u3-w"
+				(path "/afed05dd-3bce-4903-b4b6-a2a13f579b42"
+					(page "5")
 				)
 			)
 		)
