@@ -2591,7 +2591,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 63.5 115.062 90)
 			(effects
 				(font
@@ -2661,7 +2661,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 167.3352 63.5 0)
 			(effects
 				(font
@@ -2861,7 +2861,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 63.5 124.46 0)
 			(effects
 				(font
@@ -2931,7 +2931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 63.5 174.752 90)
 			(effects
 				(font
@@ -3064,7 +3064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 63.5 110.49 0)
 			(effects
 				(font
@@ -3200,7 +3200,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 63.5 129.032 90)
 			(effects
 				(font
@@ -3268,7 +3268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 63.5 154.94 0)
 			(effects
 				(font
@@ -3338,7 +3338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 63.5 101.092 90)
 			(effects
 				(font
@@ -3605,7 +3605,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 63.5 96.52 0)
 			(effects
 				(font
@@ -3933,7 +3933,7 @@
 				)
 			)
 		)
-		(property "Value" "SWD_pin"
+		(property "Value" "Display"
 			(at 52.705 31.75 0)
 			(effects
 				(font
@@ -3941,7 +3941,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 52.07 36.83 0)
 			(effects
 				(font
@@ -4015,7 +4015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 63.5 139.7 0)
 			(effects
 				(font
@@ -4214,7 +4214,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUL_EVQPUC"
 			(at 63.5 170.18 0)
 			(effects
 				(font
@@ -4283,7 +4283,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 123.952 35.56 90)
 			(effects
 				(font
@@ -4353,7 +4353,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 63.5 159.512 90)
 			(effects
 				(font
@@ -4691,7 +4691,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 52.07 69.85 0)
 			(effects
 				(font
@@ -4761,7 +4761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.1752 63.5 0)
 			(effects
 				(font
@@ -4831,7 +4831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 63.5 144.272 90)
 			(effects
 				(font
