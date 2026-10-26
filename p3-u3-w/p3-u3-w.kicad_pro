@@ -178,6 +178,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -189,6 +190,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -200,6 +202,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -483,6 +486,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -545,8 +549,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
-    "netclass_assignments": null,
+    "net_colors": {},
+    "netclass_assignments": {},
     "netclass_patterns": [
       {
         "netclass": "Default",
@@ -727,7 +731,7 @@
       {
         "filename": "p3-u3-w.kicad_sch",
         "name": "p3-u3-w",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "afed05dd-3bce-4903-b4b6-a2a13f579b42"
       }
     ],
     "used_designators": "",
@@ -736,7 +740,7 @@
   "sheets": [
     [
       "afed05dd-3bce-4903-b4b6-a2a13f579b42",
-      "Root"
+      "p3-u3-w"
     ],
     [
       "0c00c70c-6ec5-4958-b79d-f19affab4d31",
